@@ -1,0 +1,27 @@
+# IntelliJ IDEA project
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Eclipse project
+.project
+.classpath
+.settings/
+
+# Maven compile
+target/
+
+# OS auto gen
+.DS_Store
+Thumbs.db
+
+# Temp files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.vpp~*
+*.*~
+~*.*
